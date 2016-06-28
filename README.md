@@ -6,7 +6,7 @@ I'm passionate. I've started MVMS Programming Club, a non-profit organization th
 <i>I love to teach, and I love to learn.</i>
 
 ##Driven
-I'm driven. I've built 3 apps in one year, and I found a way to incorporate my love of App Development in my English class, and thus I built [iMedici] (../hh-google-20), which puts the user through the Renaissance to fully understand the impact of the Medicis.
+I'm driven. I've built 3 apps in one year, and I found a way to incorporate my love of App Development in my English class, and thus I built [iMedici] (https://github.com/ronakdev/hh-google-20), which puts the user through the Renaissance to fully understand the impact of the Medicis.
 
 Another app i built is [Swift Planner] (https://appstore.com/swiftplanner), an app designed to defeat procrastination by allowing users to get the option to "snooze" homework assignments.
 
