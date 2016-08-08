@@ -12,7 +12,7 @@ Another app i built is [Swift Planner] (http://appstore.com/swiftplanner), an ap
 
 My last app is [Multiplication Tables] (http://appstore.com/MultiplicationTables-LearnTimesTables), an app that teaches multiplication tables towards young kids in a simple, easy to learn method.
 
-I have acquired over 1300 downloads on my apps so far.
+I have acquired over 2000 downloads on my apps so far.
 
 
 ##Resilient
