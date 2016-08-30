@@ -17,3 +17,9 @@ I have acquired over 2000 downloads on my apps so far.
 
 ##Resilient
 I don't give up easily. When I started programming in 7th grade, I hated it. I was annoyed that it wasn't easy (I was good at math, so this was confusing), and I hated myself for being unable to accomplish the programming tasks. However, I realized that programming was simply a really difficult puzzle, and thus I approached my problems better, and I chose to view the situations and tasks before me in a different, more logical approach. I've taken this logic-based approach and applied it towards all my classes, whether it be in APCS understanding Binary trees, or in AP European History, understanding Napoleon's decisions. Either way, I don't give up, and use my knowledge and logic to get me through even the toughest of problems.
+
+#Dreams
+
+I'm most excited to get together with like minded people to create the ideas I've been forced to hold in my mind. I can't wait to push the limits of what apps and other technologies can do.
+
+One idea that I have is a bendable phone that can extend to the size of an iPad, but fits into your pocket as an iPhone. Boasting a UI as easy to use as iOS and as sophisticated as Android, this would be the SuperPhone.
